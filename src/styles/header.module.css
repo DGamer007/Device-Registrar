@@ -1,0 +1,15 @@
+.container{
+    height: 12vh;
+    background-color: gray;   
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.container div{
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0 auto;
+}

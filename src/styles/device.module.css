@@ -1,0 +1,29 @@
+.container{
+    background-color: #24292E;
+    width: 20%;
+    height: 25vh;
+    padding: 10px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 20px;    
+}
+
+.container div{
+    width: 90%;
+    text-align: center;
+    word-wrap: break-word;
+}
+
+.tag{
+    font-size: 12px;
+    color: lightgray;
+}
+
+.value{
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
