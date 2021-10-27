@@ -1,6 +1,6 @@
 # Device-Registrar
 
-A Complete ReactJS Project which will basically Authenticate Users and keep track of authenticated Devices for that User Account.
+A Complete ReactJS Project which will basically Authenticate Users and keep track of authenticated Devices for those User Accounts.
 
 ## Overview
 
