@@ -56,8 +56,8 @@ const LandingPage = () => {
     return (
         <div>
             <header className={classes.header}>
-                <h1>Inovmac Pvt Ltd</h1>
-                <h4>Web Developer Internship Assignment</h4>
+                <h1>Device Registrar</h1>
+                <h4>Keep track of all your logged in Devices</h4>
             </header>
             <div className={classes.container}>
                 <button onClick={() => history.push('/login')}>Login</button>
